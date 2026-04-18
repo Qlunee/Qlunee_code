@@ -1,0 +1,8 @@
+{
+  "id": 100,
+  "subject": "System Check",
+  "description": "Create a file named system_ok.txt and write 'All systems go!' in it.",
+  "status": "in_progress",
+  "blockedBy": [],
+  "owner": "worker_bee"
+}

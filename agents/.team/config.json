@@ -1,0 +1,40 @@
+{
+  "team_name": "default",
+  "members": [
+    {
+      "name": "alice",
+      "role": "developer",
+      "status": "working"
+    },
+    {
+      "name": "bob",
+      "role": "tester",
+      "status": "working"
+    },
+    {
+      "name": "coder",
+      "role": "Python \u4e13\u5bb6",
+      "status": "idle"
+    },
+    {
+      "name": "tester",
+      "role": "\u6d4b\u8bd5\u5de5\u7a0b\u5e08",
+      "status": "idle"
+    },
+    {
+      "name": "charlie",
+      "role": "developer",
+      "status": "idle"
+    },
+    {
+      "name": "Coder",
+      "role": "coder",
+      "status": "working"
+    },
+    {
+      "name": "worker_bee",
+      "role": "engineer",
+      "status": "shutdown"
+    }
+  ]
+}
