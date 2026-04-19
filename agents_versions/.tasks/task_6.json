@@ -1,0 +1,11 @@
+{
+  "id": 6,
+  "subject": "Frontend Dashboard Update",
+  "description": "Update the frontend dashboard with new UI components and improved UX",
+  "status": "in_progress",
+  "owner": "",
+  "worktree": "ui-update",
+  "blockedBy": [],
+  "created_at": 1776580624.49859,
+  "updated_at": 1776580628.082741
+}

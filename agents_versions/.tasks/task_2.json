@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "subject": "Frontend login page",
+  "description": "",
+  "status": "in_progress",
+  "owner": "",
+  "worktree": "ui-login",
+  "blockedBy": [],
+  "created_at": 1776579830.030613,
+  "updated_at": 1776579950.274793
+}

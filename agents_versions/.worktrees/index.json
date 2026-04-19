@@ -1,0 +1,56 @@
+{
+  "worktrees": [
+    {
+      "name": "auth-refactor",
+      "path": "/Users/liquan/Documents/Code/my_project/agent/Qlunee_code/.worktrees/auth-refactor",
+      "branch": "wt/auth-refactor",
+      "task_id": 1,
+      "status": "removed",
+      "created_at": 1776579950.2442849,
+      "removed_at": 1776579955.612184
+    },
+    {
+      "name": "ui-login",
+      "path": "/Users/liquan/Documents/Code/my_project/agent/Qlunee_code/.worktrees/ui-login",
+      "branch": "wt/ui-login",
+      "task_id": 2,
+      "status": "kept",
+      "created_at": 1776579950.274383,
+      "kept_at": 1776580162.279974
+    },
+    {
+      "name": "code-review",
+      "path": "/Users/liquan/Documents/Code/my_project/agent/Qlunee_code/.worktrees/code-review",
+      "branch": "wt/code-review",
+      "task_id": 3,
+      "status": "removed",
+      "created_at": 1776580505.1942668,
+      "removed_at": 1776580582.564116
+    },
+    {
+      "name": "data-processing",
+      "path": "/Users/liquan/Documents/Code/my_project/agent/Qlunee_code/.worktrees/data-processing",
+      "branch": "wt/data-processing",
+      "task_id": 4,
+      "status": "removed",
+      "created_at": 1776580505.228808,
+      "removed_at": 1776580582.587862
+    },
+    {
+      "name": "backend-refactor",
+      "path": "/Users/liquan/Documents/Code/my_project/agent/Qlunee_code/.worktrees/backend-refactor",
+      "branch": "wt/backend-refactor",
+      "task_id": 5,
+      "status": "active",
+      "created_at": 1776580607.416375
+    },
+    {
+      "name": "ui-update",
+      "path": "/Users/liquan/Documents/Code/my_project/agent/Qlunee_code/.worktrees/ui-update",
+      "branch": "wt/ui-update",
+      "task_id": 6,
+      "status": "active",
+      "created_at": 1776580628.082425
+    }
+  ]
+}

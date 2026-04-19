@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "subject": "Code review skill",
+  "description": "Implement a new skill that can review code and provide suggestions",
+  "status": "completed",
+  "owner": "",
+  "worktree": "",
+  "blockedBy": [],
+  "created_at": 1776580500.378528,
+  "updated_at": 1776580582.5639539
+}

@@ -1,0 +1,10 @@
+{
+  "team_name": "default",
+  "members": [
+    {
+      "name": "coder",
+      "role": "developer",
+      "status": "shutdown"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 5,
+  "subject": "Backend API Refactor",
+  "description": "Refactor the backend API to improve performance and maintainability",
+  "status": "in_progress",
+  "owner": "",
+  "worktree": "backend-refactor",
+  "blockedBy": [],
+  "created_at": 1776580603.6745842,
+  "updated_at": 1776580607.416685
+}
