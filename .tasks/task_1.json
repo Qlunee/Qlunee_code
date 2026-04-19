@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "subject": "开发一个Hello World程序",
+  "description": "完成一个简单的Python程序开发任务",
+  "status": "completed",
+  "owner": "coder",
+  "blockedBy": []
+}

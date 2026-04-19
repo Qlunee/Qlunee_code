@@ -1,0 +1,20 @@
+{
+  "team_name": "default",
+  "members": [
+    {
+      "name": "coder",
+      "role": "\u4e13\u4e1a\u7a0b\u5e8f\u5458",
+      "status": "shutdown"
+    },
+    {
+      "name": "Qlu",
+      "role": "Developer",
+      "status": "idle"
+    },
+    {
+      "name": "Nee",
+      "role": "Reviewer",
+      "status": "shutdown"
+    }
+  ]
+}
