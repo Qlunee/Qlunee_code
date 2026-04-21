@@ -161,7 +161,7 @@ def run_subagent(prompt: str, agent_type: str = "Explore") -> str:
                 results.append({"type": "tool_result", "tool_use_id": b.id, "content": str(h(**b.input))[:50000]})
         sub_msgs.append({"role": "user", "content": results})
     if resp:
-        return "".join(b.text for b in resp.content if hasattr(b, "text")) or "(no summary)"
+        return "".join(b.text for b in resp.content if hasattr(b, "text")) or "(no summary)"  # type: ignore
     return "(subagent failed)"
 
 # === skills  ===
@@ -225,7 +225,7 @@ def auto_compact(messages: list) -> list:
         # 遍历所有 block，找到包含 text 属性的块
     for block in resp.content:
         if hasattr(block, "text"):
-            summary = block.text
+            summary = block.text # type: ignore
             break
     if not summary:
         summary = "No text summary available from model."    
